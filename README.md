@@ -3,6 +3,7 @@
 A high-fidelity **Fallout 4 Terminal** custom theme for BetterDiscord, designed to transform your Discord interface into a retro-futuristic ROBCO Industries operating system.
 
 This repository features local patches and modern layout fixes specifically updated to support Discord's **Visual Refresh UI**, stripping away unwanted native containers, header borders, and background box artifacts for a clean, borderless terminal experience.
+<img width="1905" height="1043" alt="image" src="https://github.com/user-attachments/assets/59c6d4f4-ed7e-4cb6-9173-2d18acebda42" />
 
 ---
 
@@ -48,5 +49,8 @@ You can easily customize the color variables at the top of the CSS file (`:root`
 ## Changelog & Recent Patches
 
 * **v4.5.5:** Targeted and isolated rogue internal anonymous wrapper layers within the channel list container to completely eradicate stubborn overlay blocks.
+
+
+
 * **v4.5.0 - v4.5.4:** Restored natural server header padding and layout flow while purging native background ghost boxes and text-clipping issues.
 * **Visual Refresh Update:** Overhauled container selectors to ensure full compatibility with Discord's layout updates.
